@@ -19,8 +19,9 @@
   width: 400px;
   text-align: center;
   border: 1px solid;
-  border-radius: 10px;
   cursor: pointer;
+  background: #1eadff;
+  color: #fff;
 }
 
 #button-div {
@@ -34,13 +35,14 @@
   display: inline-block;
   font-family: "Microsoft YaHei";
   font-size: 50px;
-  background: #999;
-  border-radius: 10px;
+  background: #bbb;
+  color: #fff;
   padding: 10px 20px;
   cursor: pointer;
 }
 
 #result {
+  color: #1eadff;
   position: fixed;
   top: 20%;
   left: 7%;
